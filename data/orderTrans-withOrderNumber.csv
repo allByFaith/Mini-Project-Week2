@@ -1,0 +1,9 @@
+order_number,customer_name,customer_address,customer_phone,status
+A01,Nishu,Address in Manchester,07728909341,PREPARING
+A02,Megha,address 1 for Megha,07711909342,processing
+A03,Zach,address near the city center,07724519390,processing
+A04,Rachel,Bolton of UK,07735428413,processing
+A05,Fiona,The main office of Generation,07746539524,processing
+A06,Tom,Not specified,07757640635,processing
+A07,Chan Tai Man,North of Machester,07768751461,PREPARING
+A08,Apple Jefferson,"Traford Center, Manchester",07729764265,PREPARING
