@@ -12,6 +12,7 @@
 
 import sys
 import os
+
 # import orderFunction (not use this function)
 
 # Set the global myProdList as global variable by 
